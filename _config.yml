@@ -1,8 +1,8 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+title:               Michael Rhine's Website
+tagline:             'Howdy!'
+description:         'This website will contain all the projects I've done over the years.'
+url:                 https://MackRhine.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
