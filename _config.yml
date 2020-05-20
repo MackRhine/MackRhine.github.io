@@ -2,7 +2,7 @@
 title:               Michael Rhine's Website
 tagline:             'Howdy!'
 description:         'This website will contain all the projects I've done over the years.'
-url:                 https://mackrhine.github.io
+url:                 https://mackrhine.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
